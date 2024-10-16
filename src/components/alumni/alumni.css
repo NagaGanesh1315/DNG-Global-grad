@@ -1,0 +1,37 @@
+#team {
+    padding: 100px 0;
+  }
+  #team h4 {
+    margin: 5px 0;
+  }
+  #team .team-img {
+    width: 240px;
+  }
+  #team .thumbnail {
+    background: transparent;
+    border: 0;
+  }
+  
+  .testingsuit {
+    overflow-x: scroll;
+    white-space: nowrap;
+    width: 100%;
+  }
+  .testimonial-group > .row > .col-md-3 {
+    display: inline-block;
+    float: none;
+  }
+  
+  .testimonial-group > .row > .col-sm-6 {
+    display: inline-block;
+    float: none;
+  }
+  
+  #team .thumbnail .LinkedIn {
+    height: 160px;
+    width: 160px;
+  }
+  #team .thumbnail .caption {
+    padding: 10px 0 0;
+    color: #888;
+  }

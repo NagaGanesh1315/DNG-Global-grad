@@ -1,0 +1,80 @@
+{
+  "Technology:":[
+  {
+    "smallImage": "img/courses/cs.jpg",
+    "title": "Computer Science",
+    "redirectUrl": "https://catalog.slu.edu/colleges-schools/science-engineering/computer-science/computer-science-ms/"
+  },
+  {
+    "smallImage": "img/courses/analytics.jpg",
+    "title": "Analytics",
+    "redirectUrl": "https://catalog.slu.edu/colleges-schools/professional-studies/analytics-ms/"
+  },
+  {
+    "smallImage": "img/courses/ai.jpg",
+    "title": "Artificial Intligence",
+    "redirectUrl": "https://catalog.slu.edu/colleges-schools/science-engineering/computer-science/artificial-intelligence-ms/"
+  },
+  {
+    "smallImage": "img/courses/cyber.jpg",
+    "title": "Cyber Security",
+    "redirectUrl": "https://catalog.slu.edu/colleges-schools/professional-studies/cybersecurity-ms/"
+  },
+  {
+    "smallImage": "img/courses/is.jpg",
+    "title": "Information Systems",
+    "redirectUrl": "https://catalog.slu.edu/colleges-schools/professional-studies/information-systems-ms/"
+  },
+  {
+    "smallImage": "img/courses/bioinfomatics.jpeg",
+    "title": "Bioinformatics and Computational Biology",
+    "redirectUrl": "https://www.slu.edu/arts-and-sciences/bioinformatics-computational-biology/index.php"
+  }
+  ],
+
+  "Business and Management:":[
+    {
+      "smallImage": "img/courses/supply.jpg",
+      "title": "Supply Chain Management",
+      "redirectUrl": "https://catalog.slu.edu/colleges-schools/business/operations-information-technology-management/supply-chain-management-ms-scm/"
+    },
+    {
+      "smallImage": "img/courses/project.png",
+      "title": "Project Management",
+      "redirectUrl": "https://www.slu.edu/professional-studies/programs/project-management-ms.php"
+    },
+    {
+      "smallImage": "img/courses/financial.jpeg",
+      "title": "Applied Financial Economics",
+      "redirectUrl": "https://www.slu.edu/business/graduate/applied-financial-economics/index.php"
+    },
+    {
+      "smallImage": "img/courses/mba.jpeg",
+      "title": "One-Year MBA",
+      "redirectUrl": "https://www.slu.edu/business/graduate/one-year-mba/index.php"
+    }
+  ],
+  "Engineering:":[
+    {
+      "smallImage": "img/courses/biomedical.jpeg",
+      "title": "Biomedical Engineering",
+      "redirectUrl": "https://www.slu.edu/science-and-engineering/academics/graduate-programs/engineering-ms.php"
+    },
+    {
+      "smallImage": "img/courses/civil.jpeg",
+      "title": "civil engineering",
+      "redirectUrl": "https://www.slu.edu/science-and-engineering/academics/graduate-programs/engineering-ms.php"
+    },
+    {
+      "smallImage": "img/courses/electrical.jpeg",
+      "title": "Computer and Electrical Engineering",
+      "redirectUrl": "https://www.slu.edu/science-and-engineering/academics/graduate-programs/engineering-ms.php"
+    },
+    {
+      "smallImage": "img/courses/mech.jpeg",
+      "title": "Mechanical and Aerospace Engineering",
+      "redirectUrl": "https://www.slu.edu/science-and-engineering/academics/graduate-programs/engineering-ms.php"
+    }
+  ]
+
+}
